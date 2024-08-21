@@ -1,4 +1,5 @@
-FILEPATH = "/Users/cdey/PycharmProjects/webapp1/ketchup.txt"
+FILEPATH = "webapp1/ketchup.txt"
+
 
 def get_todos(filepath=FILEPATH):
     """ Read a text file and return the list of
