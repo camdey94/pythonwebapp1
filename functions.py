@@ -1,7 +1,6 @@
 FILEPATH = "webapp1/ketchup.txt"
 
 
-
 def get_todos(filepath=FILEPATH):
     """ Read a text file and return the list of
     to-do items.
