@@ -1,4 +1,4 @@
-FILEPATH = "webapp1/ketchup.txt"
+FILEPATH = "ketchup.txt"
 
 
 def get_todos(filepath=FILEPATH):
